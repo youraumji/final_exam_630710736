@@ -10,7 +10,7 @@ class ProfileCard extends StatelessWidget {
       body: Center(
         child: SizedBox(
           width: 300,
-          height: 350,
+          height: 300,
           child: Card(
             color: Color.fromARGB(255, 26, 26, 142),
             shape: RoundedRectangleBorder(
